@@ -1,6 +1,6 @@
 # Bootstrap Validator
 
-Available [here](https://btcellnet.z6.web.core.windows.net/bootstrapvalidator)
+Available [here](https://btcellnet.z6.web.core.windows.net/validator)
 
 Uses [BootstrapValidator](https://www.npmjs.com/package/bootstrapvalidator) jQuery plugin to 
 perform client side form validation.
